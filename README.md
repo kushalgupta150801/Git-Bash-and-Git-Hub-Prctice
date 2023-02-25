@@ -1,2 +1,2 @@
-# Python
+# Pytho
 Python Programming &amp; Projects
