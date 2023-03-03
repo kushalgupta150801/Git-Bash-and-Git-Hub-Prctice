@@ -1,2 +1,2 @@
-#Git Bash & GitHub
+# Git Bash & GitHub
 Repository for Git & GitHub Practice 
