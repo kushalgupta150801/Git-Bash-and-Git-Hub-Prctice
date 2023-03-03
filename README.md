@@ -1,2 +1,1 @@
-# Python
-Python Programming &amp; Projects
+Repository for Git & GitHub Practice 
